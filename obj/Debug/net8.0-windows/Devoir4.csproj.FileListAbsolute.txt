@@ -1,0 +1,17 @@
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir4\bin\Debug\net8.0-windows\Devoir4.exe
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir4\bin\Debug\net8.0-windows\Devoir4.deps.json
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir4\bin\Debug\net8.0-windows\Devoir4.runtimeconfig.json
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir4\bin\Debug\net8.0-windows\Devoir4.dll
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir4\bin\Debug\net8.0-windows\Devoir4.pdb
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir4\obj\Debug\net8.0-windows\Devoir4.MainForm.resources
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir4\obj\Debug\net8.0-windows\Devoir4.csproj.GenerateResource.cache
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir4\obj\Debug\net8.0-windows\Devoir4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir4\obj\Debug\net8.0-windows\Devoir4.AssemblyInfoInputs.cache
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir4\obj\Debug\net8.0-windows\Devoir4.AssemblyInfo.cs
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir4\obj\Debug\net8.0-windows\Devoir4.csproj.CoreCompileInputs.cache
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir4\obj\Debug\net8.0-windows\Devoir4.sourcelink.json
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir4\obj\Debug\net8.0-windows\Devoir4.dll
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir4\obj\Debug\net8.0-windows\refint\Devoir4.dll
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir4\obj\Debug\net8.0-windows\Devoir4.pdb
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir4\obj\Debug\net8.0-windows\Devoir4.genruntimeconfig.cache
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir4\obj\Debug\net8.0-windows\ref\Devoir4.dll
